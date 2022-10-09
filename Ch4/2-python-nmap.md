@@ -45,4 +45,3 @@ PortScannerAsync 提供了三个实现异步的函数：
 - still_scanning(): 如果扫描正在进行，则返回 True ，否则返回 False
 - wait(self, timeout=None): 等待
 - stop():停止扫描
-
